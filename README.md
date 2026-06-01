@@ -1,4 +1,4 @@
-# InvenTrack — Inventory \& Order Management System
+# InvenTrack  Inventory \& Order Management System
 
 A full-stack production-ready application for managing products, customers, and orders with automatic inventory tracking.
 
